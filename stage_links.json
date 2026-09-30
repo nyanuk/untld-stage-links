@@ -1,10 +1,10 @@
 {
   "event": "UNTLD Cyber Night [Audit Verification]",
   "eventTitle": "UNTLD Cyber Night [Audit Verification]",
-  "eventStart": 1790735360,
-  "unixTime": 1790735360,
-  "eventDate": "2026-09-30T01:29:20.900Z",
-  "updatedAt": "2026-09-30T01:29:20.901Z",
+  "eventStart": 1790735421,
+  "unixTime": 1790735421,
+  "eventDate": "2026-09-30T01:30:21.374Z",
+  "updatedAt": "2026-09-30T01:30:21.375Z",
   "pushedBy": "end_to_end_audit_runner",
   "backupStream": "https://www.youtube.com/watch?v=ldwP3xVxDcU",
   "activeStreamUrl": "rtsps://stream.vrcdn.live/live/untld_nanuk",
@@ -40,8 +40,8 @@
       "twitchUrl": "https://twitch.tv/nanuk007",
       "logo": "https://untld-test.vercel.app/images/djs/nanuk.png",
       "avatarUrl": "https://untld-test.vercel.app/images/djs/nanuk.png",
-      "startTime": 1790735360,
-      "endTime": 1790738960
+      "startTime": 1790735421,
+      "endTime": 1790739021
     },
     {
       "slot": 2,
@@ -60,8 +60,8 @@
       "twitchUrl": "https://twitch.tv/misodj",
       "logo": "",
       "avatarUrl": "",
-      "startTime": 1790738960,
-      "endTime": 1790742560
+      "startTime": 1790739021,
+      "endTime": 1790742621
     }
   ],
   "manualLinks": []
