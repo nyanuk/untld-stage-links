@@ -1,20 +1,37 @@
 {
-  "event": "UNTLD Cyber Stage",
-  "eventStart": 1775073600,
-  "eventDate": "2026-03-31T20:00:00.000Z",
-  "updatedAt": "2026-09-30T01:10:00.000Z",
-  "pushedBy": "initial_setup",
+  "event": "UNTLD Cyber Night [Automated Test]",
+  "eventStart": 1790735002,
+  "eventDate": "2026-09-30T01:23:22.712Z",
+  "updatedAt": "2026-09-30T01:23:22.713Z",
+  "pushedBy": "automated_audit_test",
   "backupStream": "https://www.youtube.com/watch?v=ldwP3xVxDcU",
   "slots": [
     {
       "slotIndex": 0,
-      "startTime": 1775073600,
+      "slotNumber": 1,
+      "startTime": 1790735002,
+      "endTime": 1790738602,
       "timeStr": "22:00 CET",
       "djName": "Nanuk",
       "streamUrl": "rtsps://stream.vrcdn.live/live/untld_nanuk",
-      "twitchUrl": "https://twitch.tv/nanuk007",
       "vrcdnUrl": "rtsps://stream.vrcdn.live/live/untld_nanuk",
-      "avatarUrl": "https://raw.githubusercontent.com/nyanuk/untld-stage-links/main/avatar_placeholder.png"
+      "twitchUrl": "https://twitch.tv/nanuk007",
+      "avatarUrl": "https://cdn.discordapp.com/avatars/1250797200242638878/a_sample.png",
+      "genre": "Hardstyle"
+    },
+    {
+      "slotIndex": 1,
+      "slotNumber": 2,
+      "startTime": 1790738602,
+      "endTime": 1790742202,
+      "timeStr": "23:00 CET",
+      "djName": "Miso",
+      "streamUrl": "https://twitch.tv/misodj",
+      "vrcdnUrl": "",
+      "twitchUrl": "https://twitch.tv/misodj",
+      "avatarUrl": "",
+      "genre": "Rawstyle / Core"
     }
-  ]
+  ],
+  "manualLinks": []
 }
