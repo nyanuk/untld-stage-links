@@ -1,9 +1,13 @@
-# UNTLD STAGE STREAM MANIFEST
-# Event: UNTLD Cyber Stage
-# Pushed: 2026-09-30T01:10:00Z
-# Format: SLOT | TIME | DJ_NAME | STREAM_URL
+# ====================================================
+# UNTLD LIVE STAGE STREAM MANIFEST
+# Event: UNTLD Cyber Night [Automated Test]
+# Start: 2026-09-30T01:23:22.712Z
+# Updated: 2026-09-30T01:23:22.713Z
+# Pushed By: automated_audit_test
+# ====================================================
 
 1 | 22:00 CET | Nanuk | rtsps://stream.vrcdn.live/live/untld_nanuk
+2 | 23:00 CET | Miso | https://twitch.tv/misodj
 
-# Emergency Backup Audio:
-BACKUP: https://www.youtube.com/watch?v=ldwP3xVxDcU
+# Emergency Backup Stream:
+BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
