@@ -1,9 +1,9 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: UNTLD Cyber Night [Automated Test]
-# Start: 2026-09-30T01:23:22.712Z
-# Updated: 2026-09-30T01:23:22.713Z
-# Pushed By: automated_audit_test
+# Event: UNTLD Cyber Night [Audit Verification]
+# Start: 2026-09-30T01:29:20.900Z
+# Updated: 2026-09-30T01:29:20.901Z
+# Pushed By: end_to_end_audit_runner
 # ====================================================
 
 1 | 22:00 CET | Nanuk | rtsps://stream.vrcdn.live/live/untld_nanuk
