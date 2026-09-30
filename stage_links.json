@@ -1,0 +1,20 @@
+{
+  "event": "UNTLD Cyber Stage",
+  "eventStart": 1775073600,
+  "eventDate": "2026-03-31T20:00:00.000Z",
+  "updatedAt": "2026-09-30T01:10:00.000Z",
+  "pushedBy": "initial_setup",
+  "backupStream": "https://www.youtube.com/watch?v=ldwP3xVxDcU",
+  "slots": [
+    {
+      "slotIndex": 0,
+      "startTime": 1775073600,
+      "timeStr": "22:00 CET",
+      "djName": "Nanuk",
+      "streamUrl": "rtsps://stream.vrcdn.live/live/untld_nanuk",
+      "twitchUrl": "https://twitch.tv/nanuk007",
+      "vrcdnUrl": "rtsps://stream.vrcdn.live/live/untld_nanuk",
+      "avatarUrl": "https://raw.githubusercontent.com/nyanuk/untld-stage-links/main/avatar_placeholder.png"
+    }
+  ]
+}
