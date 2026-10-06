@@ -1,13 +1,15 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: UNTLD Cyber Night [Audit Verification]
-# Start: 2026-09-30T01:30:21.374Z
-# Updated: 2026-09-30T01:30:21.375Z
-# Pushed By: end_to_end_audit_runner
+# Event: [ HOME ] FOX-UP
+# Start: 2026-10-06T19:00:00.000Z
+# Updated: 2026-10-06T10:48:46.511Z
+# Pushed By: event_activated
 # ====================================================
 
-1 | 22:00 CET | Nanuk | rtsps://stream.vrcdn.live/live/untld_nanuk
-2 | 23:00 CET | Miso | https://twitch.tv/misodj
+1 | TBA | NoobyMcNoot | https://stream.vrcdn.live/live/noobymcnapnoob.live.ts
+2 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
+3 | TBA | Lumine | NO_LINK
+4 | TBA | Ranma Joka | NO_LINK
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
