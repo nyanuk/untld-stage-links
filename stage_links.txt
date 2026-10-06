@@ -2,13 +2,13 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME ] FOX-UP
 # Start: 2026-10-06T19:00:00.000Z
-# Updated: 2026-10-06T10:48:46.511Z
-# Pushed By: event_activated
+# Updated: 2026-10-06T10:55:56.984Z
+# Pushed By: slash_link_Lumine
 # ====================================================
 
 1 | TBA | NoobyMcNoot | https://stream.vrcdn.live/live/noobymcnapnoob.live.ts
 2 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
-3 | TBA | Lumine | NO_LINK
+3 | TBA | Lumine | https://www.twitch.tv/lcrew_studio
 4 | TBA | Ranma Joka | NO_LINK
 
 # Emergency Backup Stream:
