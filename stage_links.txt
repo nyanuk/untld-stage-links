@@ -1,15 +1,17 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: [ HOME ] FOX-UP
-# Start: 2026-10-06T19:00:00.000Z
-# Updated: 2026-10-06T11:08:42.001Z
-# Pushed By: slash_link_Ranma Joka
+# Event: Untitled
+# Start: 2026-10-09T19:00:00.000Z
+# Updated: 2026-10-08T14:24:32.368Z
+# Pushed By: event_activated
 # ====================================================
 
-1 | TBA | NoobyMcNoot | https://stream.vrcdn.live/live/noobymcnapnoob.live.ts
-2 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
-3 | TBA | Lumine | https://www.twitch.tv/lcrew_studio
-4 | TBA | Ranma Joka | https://stream.vrcdn.live/live/ranmajoka.live.ts
+1 | TBA | CopperTFox | https://stream.vrcdn.live/live/coppertfox.live.ts
+2 | TBA | Goldfawkes | NO_LINK
+3 | TBA | Skrynbox | https://stream.vrcdn.live/live/skrynbox.live.ts
+4 | TBA | Crook | https://stream.vrcdn.live/live/crook.live.ts
+5 | TBA | 3ito | https://stream.vrcdn.live/live/kajy.live.ts
+6 | TBA | Joy | https://stream.vrcdn.live/live/joy.live.ts
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
