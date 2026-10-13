@@ -1,17 +1,14 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: Untitled
-# Start: 2026-10-09T19:00:00.000Z
-# Updated: 2026-10-08T14:24:32.368Z
+# Event: [HOME ] FOX - UP Chill day
+# Start: 2026-10-13T19:00:00.000Z
+# Updated: 2026-10-13T15:55:59.012Z
 # Pushed By: event_activated
 # ====================================================
 
-1 | TBA | CopperTFox | https://stream.vrcdn.live/live/coppertfox.live.ts
-2 | TBA | Goldfawkes | NO_LINK
-3 | TBA | Skrynbox | https://stream.vrcdn.live/live/skrynbox.live.ts
-4 | TBA | Crook | https://stream.vrcdn.live/live/crook.live.ts
-5 | TBA | 3ito | https://stream.vrcdn.live/live/kajy.live.ts
-6 | TBA | Joy | https://stream.vrcdn.live/live/joy.live.ts
+1 | TBA | Nana Wunsek | https://stream.vrcdn.live/live/457dude.live.ts
+2 | TBA | TheLenzSeesAll | https://stream.vrcdn.live/live/thelenzseesall.live.ts
+3 | TBA | Svenrichter | https://stream.vrcdn.live/live/svenrichter2002.live.ts
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
