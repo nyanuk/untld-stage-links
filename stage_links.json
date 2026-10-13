@@ -4,8 +4,8 @@
   "eventStart": 1791918000,
   "unixTime": 1791918000,
   "eventDate": "2026-10-13T19:00:00.000Z",
-  "updatedAt": "2026-10-13T15:55:59.012Z",
-  "pushedBy": "event_activated",
+  "updatedAt": "2026-10-13T15:58:36.260Z",
+  "pushedBy": "mod_addslot_4",
   "backupStream": "https://www.youtube.com/watch?v=ldwP3xVxDcU",
   "activeStreamUrl": "https://stream.vrcdn.live/live/untld.live.mpd",
   "currentSlot": null,
@@ -69,6 +69,26 @@
       "avatarUrl": "",
       "startTime": 1791932400,
       "endTime": 1791936000
+    },
+    {
+      "slot": 4,
+      "slotNumber": 4,
+      "slotIndex": 3,
+      "dj": "Open Slot 4",
+      "djName": "Open Slot 4",
+      "time": "",
+      "timeStr": "",
+      "genre": "Electronic",
+      "status": "UPCOMING",
+      "streamUrl": "",
+      "vrcdn": "",
+      "vrcdnUrl": "",
+      "twitch": "",
+      "twitchUrl": "",
+      "logo": "",
+      "avatarUrl": "",
+      "startTime": 1791936000,
+      "endTime": 1791939600
     }
   ],
   "manualLinks": []
