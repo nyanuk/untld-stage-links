@@ -2,12 +2,12 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME 3 ] One more friday !
 # Start: 2026-10-16T19:00:00.000Z
-# Updated: 2026-10-15T21:23:04.084Z
-# Pushed By: event_activated
+# Updated: 2026-10-16T16:40:13.272Z
+# Pushed By: mod_booking_edit
 # ====================================================
 
 1 | TBA | miso | https://stream.vrcdn.live/live/fiend.live.ts
-2 | TBA | Open Slot 2 | NO_LINK
+2 | TBA | NoobyMcNoot | https://stream.vrcdn.live/live/noobymcnapnoob.live.ts
 3 | TBA | Dumb0-_- | https://stream.vrcdn.live/live/dumb0.live.ts
 4 | TBA | Kronix | https://stream.vrcdn.live/live/kronixvrc.live.ts
 5 | TBA | Open Slot 5 | NO_LINK
