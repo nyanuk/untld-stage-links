@@ -1,17 +1,15 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: [ HOME 3 ] One more friday !
-# Start: 2026-10-16T19:00:00.000Z
-# Updated: 2026-10-16T16:40:36.336Z
-# Pushed By: mod_booking_edit
+# Event: [ HOME ] - FOX UP
+# Start: 2026-10-20T19:00:00.000Z
+# Updated: 2026-10-19T19:25:36.290Z
+# Pushed By: lineup_created_initial_sync
 # ====================================================
 
-1 | TBA | miso | https://stream.vrcdn.live/live/fiend.live.ts
-2 | TBA | NoobyMcNoot | https://stream.vrcdn.live/live/noobymcnapnoob.live.ts
-3 | TBA | Dumb0-_- | https://stream.vrcdn.live/live/dumb0.live.ts
-4 | TBA | Kronix | https://stream.vrcdn.live/live/kronixvrc.live.ts
-5 | TBA | 0kae | https://stream.vrcdn.live/live/f1c8.live.ts
-6 | TBA | Joy | https://stream.vrcdn.live/live/joy.live.ts
+1 | TBA | Open Slot 1 | NO_LINK
+2 | TBA | Open Slot 2 | NO_LINK
+3 | TBA | Open Slot 3 | NO_LINK
+4 | TBA | Open Slot 4 | NO_LINK
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
