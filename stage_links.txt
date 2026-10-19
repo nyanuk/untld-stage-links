@@ -2,12 +2,12 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME ] - FOX UP
 # Start: 2026-10-20T19:00:00.000Z
-# Updated: 2026-10-19T19:25:36.290Z
-# Pushed By: lineup_created_initial_sync
+# Updated: 2026-10-19T22:28:35.044Z
+# Pushed By: slot_booked_2
 # ====================================================
 
 1 | TBA | Open Slot 1 | NO_LINK
-2 | TBA | Open Slot 2 | NO_LINK
+2 | TBA | DJ lil Paws | https://stream.vrcdn.live/live/djlilpawz.live.ts
 3 | TBA | Open Slot 3 | NO_LINK
 4 | TBA | Open Slot 4 | NO_LINK
 
