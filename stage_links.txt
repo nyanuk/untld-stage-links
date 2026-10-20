@@ -2,14 +2,14 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME ] - FOX UP
 # Start: 2026-10-20T19:00:00.000Z
-# Updated: 2026-10-20T01:27:41.075Z
-# Pushed By: slot_booked_3
+# Updated: 2026-10-20T10:06:21.925Z
+# Pushed By: slot_booked_4
 # ====================================================
 
 1 | TBA | Open Slot 1 | NO_LINK
 2 | TBA | DJ lil Paws | https://stream.vrcdn.live/live/djlilpawz.live.ts
 3 | TBA | Vascare | https://stream.vrcdn.live/live/vascare.live.ts
-4 | TBA | Open Slot 4 | NO_LINK
+4 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
