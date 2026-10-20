@@ -2,8 +2,8 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME ] - FOX UP
 # Start: 2026-10-20T19:00:00.000Z
-# Updated: 2026-10-20T17:30:32.190Z
-# Pushed By: slot_booked_1
+# Updated: 2026-10-20T17:31:08.744Z
+# Pushed By: event_locked_in
 # ====================================================
 
 1 | TBA | Neverram | https://stream.vrcdn.live/live/neverram.live.ts
