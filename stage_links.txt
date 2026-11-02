@@ -1,9 +1,9 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME 2 ]  FOX - UP
-# Start: 2026-11-02T20:00:00.000Z
-# Updated: 2026-11-02T18:26:15.831Z
-# Pushed By: lineup_created_initial_sync
+# Start: 2026-11-03T20:00:00.000Z
+# Updated: 2026-11-02T21:17:43.521Z
+# Pushed By: mod_booking_edit
 # ====================================================
 
 1 | TBA | Open Slot 1 | NO_LINK
