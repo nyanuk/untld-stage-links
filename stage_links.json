@@ -1,11 +1,11 @@
 {
   "event": "[ HOME 2 ]  FOX - UP",
   "eventTitle": "[ HOME 2 ]  FOX - UP",
-  "eventStart": 1793649600,
-  "unixTime": 1793649600,
-  "eventDate": "2026-11-02T20:00:00.000Z",
-  "updatedAt": "2026-11-02T18:26:15.831Z",
-  "pushedBy": "lineup_created_initial_sync",
+  "eventStart": 1793736000,
+  "unixTime": 1793736000,
+  "eventDate": "2026-11-03T20:00:00.000Z",
+  "updatedAt": "2026-11-02T21:17:43.521Z",
+  "pushedBy": "mod_booking_edit",
   "backupStream": "https://www.youtube.com/watch?v=ldwP3xVxDcU",
   "activeStreamUrl": "https://stream.vrcdn.live/live/untld.live.mpd",
   "currentSlot": null,
@@ -27,8 +27,8 @@
       "twitchUrl": "",
       "logo": "",
       "avatarUrl": "",
-      "startTime": 1793649600,
-      "endTime": 1793653200
+      "startTime": 1793736000,
+      "endTime": 1793739600
     },
     {
       "slot": 2,
@@ -47,8 +47,8 @@
       "twitchUrl": "",
       "logo": "",
       "avatarUrl": "",
-      "startTime": 1793653200,
-      "endTime": 1793656800
+      "startTime": 1793739600,
+      "endTime": 1793743200
     },
     {
       "slot": 3,
@@ -67,8 +67,8 @@
       "twitchUrl": "",
       "logo": "",
       "avatarUrl": "",
-      "startTime": 1793656800,
-      "endTime": 1793660400
+      "startTime": 1793743200,
+      "endTime": 1793746800
     },
     {
       "slot": 4,
@@ -87,8 +87,8 @@
       "twitchUrl": "",
       "logo": "",
       "avatarUrl": "",
-      "startTime": 1793660400,
-      "endTime": 1793664000
+      "startTime": 1793746800,
+      "endTime": 1793750400
     }
   ],
   "manualLinks": []
