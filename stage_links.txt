@@ -1,17 +1,15 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: [ Untitled ] Hardloween
-# Start: 2026-10-30T20:00:00.000Z
-# Updated: 2026-10-29T15:47:25.733Z
-# Pushed By: event_activated
+# Event: [ HOME 2 ]  FOX - UP
+# Start: 2026-11-02T20:00:00.000Z
+# Updated: 2026-11-02T18:26:15.831Z
+# Pushed By: lineup_created_initial_sync
 # ====================================================
 
-1 | TBA | Neverram | https://stream.vrcdn.live/live/neverram.live.ts
-2 | TBA | Crook | https://stream.vrcdn.live/live/crook.live.ts
-3 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
-4 | TBA | Dieon | https://stream.vrcdn.live/live/dieon.live.ts
-5 | TBA | Sickmund Floyd | https://www.twitch.tv/sickmundfloyd
-6 | TBA | Joy | https://stream.vrcdn.live/live/joy.live.ts
+1 | TBA | Open Slot 1 | NO_LINK
+2 | TBA | Open Slot 2 | NO_LINK
+3 | TBA | Open Slot 3 | NO_LINK
+4 | TBA | Open Slot 4 | NO_LINK
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
