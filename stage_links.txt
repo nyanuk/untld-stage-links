@@ -2,12 +2,12 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME 2 ]  FOX - UP
 # Start: 2026-11-03T20:00:00.000Z
-# Updated: 2026-11-03T01:10:52.807Z
-# Pushed By: slash_link_ThePal
+# Updated: 2026-11-03T19:09:16.339Z
+# Pushed By: mod_booking_edit
 # ====================================================
 
 1 | TBA | DJ lil Paws | https://stream.vrcdn.live/live/djlilpawz.live.ts
-2 | TBA | Open Slot 2 | NO_LINK
+2 | TBA | DJ Dolo2k | rtmp://stream.vrcdn.live/live/djdolo2klive
 3 | TBA | ThePal | https://stream.vrcdn.live/live/thepal.live.ts
 4 | TBA | Open Slot 4 | NO_LINK
 
