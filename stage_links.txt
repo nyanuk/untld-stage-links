@@ -1,15 +1,16 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: [ HOME 2 ]  FOX - UP
-# Start: 2026-11-03T20:00:00.000Z
-# Updated: 2026-11-03T20:01:54.304Z
-# Pushed By: slot_booked_4
+# Event: [  HOME 3 ]  Bon vojage Yukine
+# Start: 2026-11-06T20:00:00.000Z
+# Updated: 2026-11-06T14:41:18.790Z
+# Pushed By: event_activated
 # ====================================================
 
-1 | TBA | DJ lil Paws | https://stream.vrcdn.live/live/djlilpawz.live.ts
-2 | TBA | DJ Dolo2k | rtmp://stream.vrcdn.live/live/djdolo2klive
-3 | TBA | ThePal | https://stream.vrcdn.live/live/thepal.live.ts
-4 | TBA | miso | https://stream.vrcdn.live/live/fiend.live.ts
+1 | TBA | Little Basdart | https://www.twitch.tv/basdis_beatbox
+2 | TBA | Vernicht0r | https://stream.vrcdn.live/live/vernicht0r.live.ts
+3 | TBA | DJ lil Paws | https://stream.vrcdn.live/live/djlilpawz.live.ts
+4 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
+5 | TBA | Joy | https://stream.vrcdn.live/live/joy.live.ts
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
