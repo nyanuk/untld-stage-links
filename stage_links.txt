@@ -2,12 +2,12 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: HOME FOX-UP
 # Start: 2026-11-10T20:00:00.000Z
-# Updated: 2026-11-09T14:11:49.013Z
-# Pushed By: lineup_created_initial_sync
+# Updated: 2026-11-09T14:11:59.594Z
+# Pushed By: slot_booked_2
 # ====================================================
 
 1 | TBA | svenrichter02 | https://stream.vrcdn.live/live/svenrichter2002.live.ts
-2 | TBA | Open Slot 2 | NO_LINK
+2 | TBA | Vascare | https://stream.vrcdn.live/live/vascare.live.ts
 3 | TBA | Open Slot 3 | NO_LINK
 4 | TBA | Open Slot 4 | NO_LINK
 
