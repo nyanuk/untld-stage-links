@@ -1,16 +1,15 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: [  HOME 3 ]  Bon vojage Yukine
-# Start: 2026-11-06T20:00:00.000Z
-# Updated: 2026-11-06T14:41:18.790Z
-# Pushed By: event_activated
+# Event: HOME FOX-UP
+# Start: 2026-11-10T20:00:00.000Z
+# Updated: 2026-11-09T14:11:46.146Z
+# Pushed By: slot_booked_1
 # ====================================================
 
-1 | TBA | Little Basdart | https://www.twitch.tv/basdis_beatbox
-2 | TBA | Vernicht0r | https://stream.vrcdn.live/live/vernicht0r.live.ts
-3 | TBA | DJ lil Paws | https://stream.vrcdn.live/live/djlilpawz.live.ts
-4 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
-5 | TBA | Joy | https://stream.vrcdn.live/live/joy.live.ts
+1 | TBA | svenrichter02 | https://stream.vrcdn.live/live/svenrichter2002.live.ts
+2 | TBA | Open Slot 2 | NO_LINK
+3 | TBA | Open Slot 3 | NO_LINK
+4 | TBA | Open Slot 4 | NO_LINK
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
