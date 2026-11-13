@@ -2,15 +2,15 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME ] FUN n BASS
 # Start: 2026-11-13T18:00:00.000Z
-# Updated: 2026-11-13T17:04:15.889Z
-# Pushed By: slash_link_usbc
+# Updated: 2026-11-13T17:05:02.503Z
+# Pushed By: mod_booking_edit
 # ====================================================
 
 1 | TBA | jinx | NO_LINK
 2 | TBA | sleepyneko | https://stream.vrcdn.live/live/sleepyneko.live.ts
 3 | TBA | CopperTFox | https://stream.vrcdn.live/live/coppertfox.live.ts
 4 | TBA | 0kae | https://stream.vrcdn.live/live/f1c8.live.ts
-5 | TBA | Open Slot 5 | NO_LINK
+5 | TBA | usbc | https://stream.vrcdn.live/live/usbc.live.ts
 6 | TBA | Apoc | https://stream.vrcdn.live/live/apocdnb.live.ts
 
 # Emergency Backup Stream:
