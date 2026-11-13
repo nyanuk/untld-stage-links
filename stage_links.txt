@@ -1,15 +1,17 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: HOME FOX-UP
-# Start: 2026-11-10T20:00:00.000Z
-# Updated: 2026-11-10T18:47:11.862Z
-# Pushed By: event_locked_in
+# Event: [ HOME ] FUN n BASS
+# Start: 2026-11-13T18:00:00.000Z
+# Updated: 2026-11-13T16:56:58.958Z
+# Pushed By: event_activated
 # ====================================================
 
-1 | TBA | svenrichter02 | https://stream.vrcdn.live/live/svenrichter2002.live.ts
-2 | TBA | Vascare | https://stream.vrcdn.live/live/vascare.live.ts
-3 | TBA | 0kae | https://stream.vrcdn.live/live/f1c8.live.ts
-4 | TBA | miso | https://stream.vrcdn.live/live/fiend.live.ts
+1 | TBA | jinx | NO_LINK
+2 | TBA | sleepyneko | https://stream.vrcdn.live/live/sleepyneko.live.ts
+3 | TBA | CopperTFox | https://stream.vrcdn.live/live/coppertfox.live.ts
+4 | TBA | 0kae | https://stream.vrcdn.live/live/f1c8.live.ts
+5 | TBA | Open Slot 5 | NO_LINK
+6 | TBA | Apoc | https://stream.vrcdn.live/live/apocdnb.live.ts
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
