@@ -2,11 +2,11 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME ] FUN n BASS
 # Start: 2026-11-13T18:00:00.000Z
-# Updated: 2026-11-13T20:00:19.734Z
+# Updated: 2026-11-13T20:43:30.459Z
 # Pushed By: lineup_hash_change_detected
 # ====================================================
 
-1 | TBA | jinx | https://twitch.tv/deejayjinx
+1 | TBA | miso | https://stream.vrcdn.live/live/fiend.live.ts
 2 | TBA | sleepyneko | https://stream.vrcdn.live/live/sleepyneko.live.ts
 3 | TBA | CopperTFox | https://stream.vrcdn.live/live/coppertfox.live.ts
 4 | TBA | 0kae | https://stream.vrcdn.live/live/f1c8.live.ts
