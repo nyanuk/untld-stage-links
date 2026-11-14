@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "trackingEnabled": true,
+  "heartbeatInterval": 60,
+  "configPollInterval": 30,
+  "logAvatarHeight": true,
+  "logVRMode": true,
+  "logMasterOwner": true,
+  "logPositions": false,
+  "sendHeartbeats": true,
+  "snapshotNonce": "1794674015563",
+  "statusBanner": "TRACKER: LIVE",
+  "updatedAt": 1794674015,
+  "updatedBy": "staff_web"
+}
