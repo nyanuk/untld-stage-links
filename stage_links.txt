@@ -2,11 +2,11 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: HOME FOX-UP
 # Start: 2026-11-17T20:00:00.000Z
-# Updated: 2026-11-16T16:37:24.195Z
-# Pushed By: lineup_created_initial_sync
+# Updated: 2026-11-16T17:38:46.213Z
+# Pushed By: slot_booked_1
 # ====================================================
 
-1 | TBA | Open Slot 1 | NO_LINK
+1 | TBA | ph03n1xboy33 | https://stream.vrcdn.live/live/ph03n1xboy33.live.ts
 2 | TBA | Open Slot 2 | NO_LINK
 3 | TBA | Open Slot 3 | NO_LINK
 4 | TBA | Open Slot 4 | NO_LINK
