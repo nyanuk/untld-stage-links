@@ -2,14 +2,14 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: HOME FOX-UP
 # Start: 2026-11-17T20:00:00.000Z
-# Updated: 2026-11-16T18:19:13.412Z
-# Pushed By: slot_booked_3
+# Updated: 2026-11-17T14:33:19.524Z
+# Pushed By: mod_booking_edit
 # ====================================================
 
 1 | TBA | ph03n1xboy33 | https://stream.vrcdn.live/live/ph03n1xboy33.live.ts
 2 | TBA | DJ Dolo2k | rtmp://stream.vrcdn.live/live/djdolo2klive
 3 | TBA | Moxel | https://stream.vrcdn.live/live/moxel.live.ts
-4 | TBA | Open Slot 4 | NO_LINK
+4 | TBA | svenrichter02 | https://stream.vrcdn.live/live/svenrichter2002.live.ts
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
