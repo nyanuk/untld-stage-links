@@ -2,14 +2,14 @@
 # UNTLD LIVE STAGE STREAM MANIFEST
 # Event: [ HOME ] Free genre
 # Start: 2026-11-24T20:00:00.000Z
-# Updated: 2026-11-23T19:54:31.226Z
-# Pushed By: lineup_hash_change_detected
+# Updated: 2026-11-23T20:02:41.258Z
+# Pushed By: slot_booked_4
 # ====================================================
 
 1 | TBA | Open Slot 1 | NO_LINK
 2 | TBA | DJ lil Paws | https://stream.vrcdn.live/live/djlilpawz.live.ts
 3 | TBA | Open Slot 3 | NO_LINK
-4 | TBA | Open Slot 4 | NO_LINK
+4 | TBA | usbc | https://stream.vrcdn.live/live/usbc.live.ts
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
