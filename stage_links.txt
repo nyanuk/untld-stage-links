@@ -1,17 +1,15 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: [ HOME 3] CZ / SK (1)
-# Start: 2026-11-20T20:00:00.000Z
-# Updated: 2026-11-21T00:51:37.113Z
-# Pushed By: slash_editdj_Awee
+# Event: [ HOME ] Free genre
+# Start: 2026-11-24T20:00:00.000Z
+# Updated: 2026-11-23T18:52:28.716Z
+# Pushed By: lineup_created_initial_sync
 # ====================================================
 
-1 | TBA | Nerry | https://stream.vrcdn.live/live/nerrythederg.live.ts
-2 | TBA | miso | https://stream.vrcdn.live/live/fiend.live.ts
-3 | TBA | tofula | https://stream.vrcdn.live/live/tofula.live.ts
-4 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
-5 | TBA | Mauser | https://stream.vrcdn.live/live/mauser.live.ts
-6 | TBA | Awee | https://stream.vrcdn.live/live/awee.live.ts
+1 | TBA | Open Slot 1 | NO_LINK
+2 | TBA | Open Slot 2 | NO_LINK
+3 | TBA | Open Slot 3 | NO_LINK
+4 | TBA | Open Slot 4 | NO_LINK
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
