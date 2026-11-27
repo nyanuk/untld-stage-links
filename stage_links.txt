@@ -1,15 +1,16 @@
 # ====================================================
 # UNTLD LIVE STAGE STREAM MANIFEST
-# Event: [ HOME ] Free genre
-# Start: 2026-11-24T20:00:00.000Z
-# Updated: 2026-11-24T12:58:44.076Z
-# Pushed By: slot_booked_3
+# Event: [ HOME 3.0 ] Friday night
+# Start: 2026-11-27T20:00:00.000Z
+# Updated: 2026-11-27T14:59:22.342Z
+# Pushed By: event_activated
 # ====================================================
 
-1 | TBA | Crook | https://stream.vrcdn.live/live/crook.live.ts
-2 | TBA | DJ lil Paws | https://stream.vrcdn.live/live/djlilpawz.live.ts
-3 | TBA | Neverram | https://stream.vrcdn.live/live/neverram.live.ts
-4 | TBA | usbc | https://stream.vrcdn.live/live/usbc.live.ts
+1 | TBA | Vascare | https://stream.vrcdn.live/live/vascare.live.ts
+2 | TBA | Nanuk | https://stream.vrcdn.live/live/fiend.live.ts
+3 | TBA | Rocketvr | https://stream.vrcdn.live/live/rocket.live.ts
+4 | TBA | xXAshkaXx | https://stream.vrcdn.live/live/xxashkaxx.live.ts
+5 | TBA | Joy | https://stream.vrcdn.live/live/joy.live.ts
 
 # Emergency Backup Stream:
 BACKUP | https://www.youtube.com/watch?v=ldwP3xVxDcU
